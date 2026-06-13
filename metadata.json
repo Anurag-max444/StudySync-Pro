@@ -1,0 +1,6 @@
+{
+  "name": "StudySync Pro",
+  "description": "A modern study management app for SSC, CHSL, MTS, Railway, Banking, UPSC and School/College students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
